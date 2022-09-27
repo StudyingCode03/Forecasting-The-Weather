@@ -1,2 +1,2 @@
 # Forecasting The Weather
-Predict your local weather with machine learning.
+Forecasting the weather using ridge regression.
