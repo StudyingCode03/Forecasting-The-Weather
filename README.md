@@ -1,2 +1,2 @@
 # Weather-Predictive-Model
-A simple weather predictor using data from NAOO.
+Predict your local weather with machine learning.
